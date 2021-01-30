@@ -81,6 +81,7 @@ E-2)Crear un apartado para ver eventos anteriores.
 E-3)Crear un formulario de contacto donde el usuario-cliente cargue su -fecha de nacimiento, documento, nombre, email y numero de telefono- con un boton que le abra un modal con la leyenda "se le notificara por alguno de los medios provistos sobre su asistencia al evento" (Este ejercicio impicaria crear un CRUD de asistentes y su respectiva tabla para guardarlos)
 
 Medio:
+
 M-1)Selector dinamico (ajax) de pais - provincia - localidad
 
 M-2)Selector con sugerencias - Debera recomendar al superusuario dinamicamente las localidades que comiencen con lo que el haya escrito (Una vez que haya escrito al menos 3 letras)
@@ -131,7 +132,7 @@ Ahora crea la pantalla para ver el listado de los eventos pasados.
 Por último, afina los detalles (drag & drop de imágenes, estética, etc.).
 
 
-### ¡Es imposible que logre terminar esto! ###
+### ¡Es poco probable que logre terminar esto! ###
 No te preocupes por eso e intenta completar los puntos importantes.
 
 Ten en cuenta que todo conocimiento sirve y que no hay un puntaje específico para cada actividad, no hay porque ponerse nervioso, es solo una pequeña muestra de lo que sabemos o aprendimos
