@@ -116,7 +116,7 @@ Las aplicaciones se pueden hacer en cualquier orden, pero talvez seguir estos pa
 
 *Crear una vista donde el usuario-cliente visualice los eventos y pueda buscarlos (Si realizo las actividades correspondientes, que se muestre el cambio con AJAX sin necesidad de recargar la pantalla)
 
-*Crear una vista donde el usuario-cliente pueda un listado de eventos pasados.
+*Crear una vista donde el usuario-cliente pueda ver un listado de eventos pasados.
 
 *Crear lo necesario para que el superusuario pueda editar y borrar eventos.
 
